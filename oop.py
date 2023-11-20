@@ -59,10 +59,4 @@ class Car:
 
 
 
-Car.create_car()
-
-print(Car.all)
-
-
-
 
