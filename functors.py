@@ -1,7 +1,7 @@
 #ფუნქტორი არის ობიექტი, რომელიც გამოიყენება როგორც ფუნქცია
 
 class Functor:
-    def __int__(self, n=15):
+    def __init__(self, n=15):
         self.n = n
 
     def __call__(self, x):
